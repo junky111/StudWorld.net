@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/socket.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/WebsocketServer.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/DefaultLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/PrivateMessageLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/web/index.html</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/LoadUserLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/LikeLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/RegisterLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/web/META-INF/context.xml</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/DirectSendLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/SystemServer.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/LoadUserLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/PostLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/UserQueueServer.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/PrivateMessageLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/starter.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/AuthLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/AccessRules.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/WebsocketUser.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/StatusLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/CommentLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/SubscribeLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/LikeLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/userqueue/logic/CommentLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/logic/PostLogic.java</file>
+            <file>file:/E:/new_git/lol/StudWorld/Studworld-client/src/java/net/studworld/webclient/ServerStorage.java</file>
+        </group>
+    </open-files>
+</project-private>
