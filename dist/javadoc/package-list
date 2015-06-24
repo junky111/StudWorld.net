@@ -1,0 +1,8 @@
+net.studworld.config
+net.studworld.models
+net.studworld.packets
+net.studworld.parser.base
+net.studworld.parser.wordparser.convertLogic
+net.studworld.parser.wordparser.parseLogic
+net.studworld.system
+net.studworld.system.logic
