@@ -1,0 +1,450 @@
+.leftmenu {
+    position: fixed;
+    width: 50px;
+    height: 150px;
+    top: 50%;
+    left: 0;
+    margin-left: 5px;
+    margin-top: -75px;
+}
+
+.leftmenu a {
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    cursor: pointer;
+}
+
+.leftmenu a.home {
+    background: url('/images/menu/home.png');
+    background-size: 50px 50px;
+}
+
+.leftmenu a.friends {
+    background: url('/images/menu/friends.png');
+    background-size: 50px 50px;
+}
+
+.leftmenu a.messages {
+    background: url('/images/menu/mail.png');
+    background-size: 50px 50px;
+}
+
+.leftmenu a.news {
+    background: url('/images/menu/news.png');
+    background-size: 50px 50px;
+}
+
+
+.auth-logo {
+    background: rgba(255,255,255,0.3);
+}
+
+.authform-field {
+    height: 47px;
+    line-height: 30px;
+    font-size: 24px;
+    width: 530px;
+    display:block;
+    margin: 10px;
+    text-align:center;
+}
+
+.authform-button {
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    font-size: 25px;
+    width: 90px;
+    margin: 10px;
+    color: white;
+    background: #00ccff;
+}
+
+
+.user-title {
+    width: 1000px;
+    margin: auto;
+    height: 200px;
+    padding-left: 300px;
+    padding-left: 500px;
+}
+
+.user-title h1 {
+    top: 100px;
+    position: absolute;
+    color: white;
+    font-weight: 400;
+}
+
+.user {
+    width: 1000px;
+    margin: auto;
+    background: white;
+}
+
+.user .basic-info {
+    width: 1000px;
+    height: 50px;
+    border-bottom: 1px solid #f0f0f0;
+    background: #f7f7f7;
+}
+
+.user .basic-info .photo {
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-top: -130px;
+    border-radius: 5px;
+    
+}
+
+.user .basic-info .photo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.user .basic-info .profile-edit {
+    float: right;
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    background: white;
+    border: none;
+    cursor: pointer;
+}
+
+.user .basic-info p {
+    padding: 0;
+    margin: 0;
+}
+
+.user .basic-info .name-label {
+    margin-left: 280px;
+}
+
+.user .basic-info .about {
+    margin-left: 280px;
+    line-height: 50px;
+}
+
+.user .detail {
+    margin-top: 50px;
+}
+
+.user .detail .user-interact{
+    width: 300px;
+    float: left;
+    height: 20px;
+    line-height: 20px;
+}
+
+.user .detail .user-interact .list:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.user .detail .user-interact .info-block{
+    border-top: 1px solid #f0f0f0;
+    padding: 15px;
+    background: #fcfcfc;
+    margin-bottom: 30px;
+}
+
+.user .detail .user-data {
+    width: 700px;
+    height: 700px;
+    margin-left: 300px;
+}
+
+.user .blog-post {
+    width: 650px;
+    padding: 25px;
+    background: white;
+}
+
+.user .blog-post .post-title {
+    background: #f7f7f7;
+    height: 70px;
+    width: 650px;
+    margin: auto;
+}
+
+.user .blog-post .post-title img {
+    float: left;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.user .blog-post .post-title .like {
+    cursor: pointer;
+    float: right;
+    width: 70px;
+    height: 70px;
+}
+
+.user .blog-post .post-content {
+    background: #fafafa;
+    height: 150px;
+    width: 650px;
+    padding: 15px;
+}
+
+.user .blog-post .post-title h3 {
+    line-height: 70px;
+}
+
+.slider-parent {
+    position: relative;
+}
+
+.slider-parent .auth-slider{
+    width:582px;
+    height:500px;
+    padding-left:86px;
+    padding-top:86px;
+    display:block;
+}
+.slider-parent .auth-slider .auth-form{
+    width:100%;
+    height: 342px;
+    padding-top:250px;
+    padding-left:100px;
+}
+
+.slider-parent .auth-slider  .auth-button{
+    width:255px;
+    height:40px;
+    font-size: 15pt;
+    line-height: 40px;
+    margin-left: 11px;
+    font-weight: bold;
+    display:inline-block;
+    color:white;
+    background-color:#00bff3;
+    text-align:center;
+    border: 1px solid lightgray;
+}
+.slider-parent .auth-slider .auth-button:hover{
+    cursor:pointer;
+    background-color:#03a9d6;
+}
+
+.slider-parent .auth-slider  .auth-greeting{
+    
+}
+
+.user-profile {
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.user-profile .leftpart{
+    float: left;
+    width: 200px;
+}
+
+.user-profile .leftpart .avatar{
+    width: 200px;
+}
+
+.user-profile .leftpart .avatar img{
+    width: 200px;
+}
+
+.user-profile .leftpart #name{
+    color: white;
+    font-weight: 200;
+    padding: 0;
+    margin: 0;
+}
+
+.user-profile .leftpart #personal, .user-profile .leftpart #pm{
+    padding: 5px;
+    margin-top: 20px;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    width: 190px;
+}
+
+.user-profile .menu {
+    margin-top: 20px;
+    display: block;
+}
+
+.user-profile .menu .header {
+    color: white;
+    padding: 5px;
+    height: 30px;
+    line-height: 30px;
+    margin: 0px;
+    margin-bottom: 8px;
+}
+
+.user-profile .rightpart{
+    margin-left: 220px;
+    width: 750px;
+    background: #4e4e4e;
+}
+
+.pms-bg {
+    width: 100%;
+}
+
+.pms {
+    width: 1000px;
+    margin: auto;
+}
+
+.pms-bg .input {
+    position: absolute;
+    bottom: 0px;
+    width: 1000px;
+    left: 50%;
+    margin-left: -500px;
+}
+
+.pms-bg .input textarea {
+    width: 780px;
+    height: 100px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.pms-bg .input .send {
+    float: right;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px;
+    padding: 10px;
+    line-height: 80px;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    background: lightgray;
+}
+
+.pms-bg .receiver {
+    display: none;
+}
+
+.pms-bg .pm {
+    background: lightgray;
+    padding: 10px;
+    color: black;
+    margin: 10px;
+}
+
+.pms-bg .pm .personal {
+    float: right;
+}
+
+.pms-bg .pm .external {
+    float: left;
+}
+
+.photoslines {
+    display: table-row;
+}
+
+
+.photoline {
+    display: table-row;
+    height: 150px;
+    width: 750px;
+}
+
+.photoline .photo {
+    display: table-cell;
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+
+.photoline .photo img {
+    width: 150px;
+    height: 150px;
+}
+
+.photoline .photo .sign {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    bottom: 0px;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+}
+
+.wall {
+    width: 750px;
+}
+
+.wall .post {
+    width: 600px;
+    height: 200px;
+    border: 1px solid gray;
+}
+
+.wall .post {
+    width: 600px;
+    height: 200px;
+    border: 1px solid gray;
+    background: rgba(255,255,255,0.3);
+}
+
+.wall .post .info {
+    width: 50px;
+    float: left;
+    height: 200px;
+}
+
+.wall .post .info .img {
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    background: rgba(255,255,255,0.3);
+}
+
+.writewall {
+    width: 650px;
+    margin: auto;
+}
+
+.writewall .send {
+    color: white;
+    float: right;
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+    cursor: pointer;
+}
+
+.writewall .header {
+    width: 400px;
+}
+
+.writewall .textarea {
+    width: 650px;
+}
+
+.writewall textarea {
+    background: transparent;
+    color: white;
+    width: 650px;
+    height: 110px;
+    border: none;
+    outline: none;
+    border: 1px solid darkgray;
+}

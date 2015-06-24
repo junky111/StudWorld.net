@@ -1,0 +1,227 @@
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-light.eot');
+    src: url('fonts/opensans-light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-light.woff') format('woff'),
+         url('fonts/opensans-light.ttf') format('truetype'),
+         url('fonts/opensans-light.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+@font-face {
+  font-family: "FontAwesome";
+  src: url('fonts/fontawesome-webfont.eot');
+  src: url('fonts/fontawesome-webfont.eot?#iefix') format('eot'),
+       url('fonts/fontawesome-webfont.woff') format('woff'),
+       url('fonts/fontawesome-webfont.ttf') format('truetype'),
+       url('fonts/fontawesome-webfont.svg#FontAwesome')    format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+    font-family: 'Open Sans';
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: #595959;
+}
+
+#slider {
+    width: 100% !important;
+    height: 100vh !important;
+    z-index:4;
+}
+
+#main-container {
+    width: 100% !important;
+    height: 100vh !important;
+    position: relative;
+}
+
+.nivo-directionNav {
+    display: none;
+}
+
+.caption {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background: rgba(0,0,0,0.6);
+    z-index:5;
+}
+
+.caption div.links {
+    float: right;
+}
+
+.caption div.links a {
+    display: block;
+    float: left;
+    padding: 37px;
+    border-bottom: 4px solid transparent;
+    border-color: transparent;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: border-color 0.5s ease;
+}
+
+.caption div.links :hover {
+    border-color: #009900;
+}
+
+#slider{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+#slider ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+#slider ul li {
+    width: 100% !important;
+    height: 100vh !important;
+    position: relative;
+}
+
+#slider ul li p {
+    position: absolute;
+}
+
+.browse-bg {
+    position: absolute;
+    width:1015px;
+    height: 660px;
+    left: 50%;
+    margin-left: -507px;
+    margin-top: -340px;
+    top: 50%;
+    z-index: 3;
+}
+
+.browse-bg .browse-row {
+    height: 200px;
+    margin: 20px;
+    position: relative;
+}
+
+.browse-bg .browse-row .browse-cell {
+    display: block;
+    position: absolute;
+    width: 325px;
+    height: 200px;
+    text-decoration: none;
+    border-radius: 5px;
+    left: 3000px;
+    background: black;
+}
+
+.browse-bg .browse-row .browse-cell #bg {
+    border-radius: 5px;
+    width: 325px;
+    height: 200px;
+}
+
+/*.browse-bg .browse-row .browse-cell:hover #bg {
+    -webkit-transition: opacity 0.5s ease;
+    opacity: 0.5;
+}*/
+
+.browse-bg .browse-row .browse-cell p {
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    text-align: center;
+    width: 325px;
+    top:50%;
+    margin-top:-20px;
+    background: rgba(0,0,0,0.7);
+    height: 40px;
+    color: white;
+    line-height: 40px;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.interface-right > * {
+    z-index: 4;
+    font-size: 20pt;
+    position: fixed;
+    top: 10px;
+    color: white;
+    z-index:5;
+}
+
+.interface-right .browse {
+    right: 10px;
+}
+
+.interface-right .social {
+    top: 8px;
+    right: 50px;
+}
+
+.auth-slider {
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+.rhino-container {
+    width: 100% !important;
+    height: 100vh !important;
+}
+
+.topmenu {
+    width: 100%;
+    height: 45px;
+    top: 0;
+    left: 0;
+    background: #4e4e4e;
+}
+
+.faketopmenu {
+    width: 100%;
+    height: 45px;
+}
+
+.topmenu a {
+    display: block;
+    position: relative;
+    cursor: pointer;
+}
+
+.topmenu a.home {
+    margin: 3px;
+    margin-left: 12px;
+    width: 180px;
+    height: 39px;
+    background: url('/images/main/logo.png');
+    background-size: 180px 39px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgray;
+    transition: all 0.15s ease-in-out;
+}
