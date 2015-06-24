@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/LoadCommentsLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/PrivateMessageLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/SubscribeLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/ModelProxy.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/SubscribeListLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/GroupModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/main/JunkyServer.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/RegisterLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/LoadUserLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/AuthLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/UserWallModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/LoadPostsLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/WallModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/PostModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/GroupWallModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/IModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/ArticleModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/StatusLikeLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/PostListLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/BlogModel.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/PostPostLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/main/main.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/junky/CommentPostLogic.java</file>
+            <file>file:/E:/new_git/lol/studworld-queueworker/src/net/studworld/RabbitMQ/UserModel.java</file>
+        </group>
+    </open-files>
+</project-private>
